@@ -26,24 +26,18 @@ Built with **scikit-learn**, **Keras**, **pandas**, and **seaborn**.
 
 ### 📌 Background
 
-- 🎓 Pursuing a B.S. in Data Science at UIC, following an A.S. in Data Science Pathway from College of DuPage
-- 🤝 Selected for Break Through Tech's competitive year-long AI/ML Fellowship (from a pool of 4,300+ applicants)
-- 📜 Working toward a Machine Learning Foundations Certificate (Cornell Tech, expected Aug 2026)
-- 🎤 Presented original research at the COD Library Student Research and Award Symposium on a comparative analysis of sexual violence laws and policies across countries
 
 ---
 
-### 📊 GitHub Stats
+### 📜 Certifications
 
-[![Arwah's GitHub stats](https://github-readme-stats.vercel.app/api?username=arwahajmeri&show_icons=true&theme=tokyonight)](https://github.com/arwahajmeri)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arwahajmeri&layout=compact&theme=tokyonight)](https://github.com/arwahajmeri)
 
 ---
 
 ### 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/arwahajmeri)
-- [GitHub](https://github.com/arwahajmeri)
+- arwahajmeri786@gmail.com
 
 ---
 
