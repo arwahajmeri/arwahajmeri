@@ -22,11 +22,14 @@ Supervised learning capstone comparing K-Nearest Neighbors against a feedforward
 ### [Airbnb Superhost Prediction](https://github.com/arwahajmeri/airbnb-superhost-prediction)
 Logistic regression pipeline predicting Airbnb Superhost status. Tuned via GridSearchCV (5-fold CV) and used SelectKBest to identify the top predictive features (response rate, review volume, review scores), achieving 0.824 AUC on a held-out test set. Built with **scikit-learn, pandas, matplotlib**.
 
+
 ---
 
 ## 📌 Background
 
 I'm currently one of just over 100 fellows selected from a pool of 4,300+ applicants for Break Through Tech's year-long AI/ML program, where I've gained hands-on experience in data cleaning, feature engineering, and model evaluation. Before this, I worked as a Data Entry & Operations Associate at StretchLab, maintaining CRM data accuracy across hundreds of client records — experience that taught me how much good data work depends on precision and follow-through, not just technical skill.
+
+📂 See more of my coursework in [Python CS Fundamentals](https://github.com/arwahajmeri/python-cs-fundamentals) — OOP, GUI development, and file I/O projects.
 
 ---
 
