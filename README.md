@@ -1,7 +1,9 @@
 # Hi, I'm Arwah 👋
 
 🎓 Data Science Student @ UIC (Expected May 2028) | 🤖 AI/ML Fellow @ Break Through Tech
+
 🎯 Seeking Data Science / Machine Learning internships
+
 📊 Google Data Analytics & Google IT Support Certified
 
 🎯 **Currently seeking Data Science / Machine Learning internships**
