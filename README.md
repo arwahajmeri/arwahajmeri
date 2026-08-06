@@ -6,7 +6,6 @@
 
 📊 Google Data Analytics & Google IT Support Certified
 
-🎯 **Currently seeking Data Science / Machine Learning internships**
 
 ---
 
