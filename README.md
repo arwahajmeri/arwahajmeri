@@ -1,18 +1,20 @@
 # Hi, I'm Arwah 👋
 
-🎓 Data Science Student @ UIC (Expected May 2028) | 🤖 AI/ML Fellow @ Break Through Tech
+🎓 Data Science Student @ University of Illinois Chicago (Expected May 2028)
 
-🎯 Seeking Data Science / Machine Learning internships
+🤖 AI/ML Fellow @ Break Through Tech — selected from 4,300+ applicants
+
+🎯 **Seeking Data Science / Machine Learning internships**
 
 📊 Google Data Analytics & Google IT Support Certified
-
 
 ---
 
 ## 🛠 Tech Stack
 
 - **Languages:** Python
-- **Libraries/Tools:** pandas, scikit-learn, TensorFlow/Keras, Matplotlib, Tkinter, Git/GitHub, Jupyter Notebook
+- **Libraries:** pandas, scikit-learn, TensorFlow/Keras, Matplotlib
+- **Tools:** Git/GitHub, Jupyter Notebook
 - **Focus Areas:** Data cleaning & feature engineering, model development & evaluation, data visualization
 
 ---
@@ -20,11 +22,12 @@
 ## 🏆 Highlight Projects
 
 ### [Census Income Prediction — ML Capstone](https://github.com/arwahajmeri/census-income-ml-capstone)
+
 Supervised learning capstone comparing K-Nearest Neighbors against a feedforward neural network to predict income tier from 1994 U.S. Census data. Includes full EDA, data preparation, hyperparameter tuning via GridSearchCV, and a written model comparison. Reached 83.7% test accuracy with KNN vs. 82.9% accuracy / 0.647 F1 with the neural network. Built with **scikit-learn, Keras, pandas**.
 
 ### [Airbnb Superhost Prediction](https://github.com/arwahajmeri/airbnb-superhost-prediction)
-Logistic regression pipeline predicting Airbnb Superhost status. Tuned via GridSearchCV (5-fold CV) and used SelectKBest to identify the top predictive features (response rate, review volume, review scores), achieving 0.824 AUC on a held-out test set. Built with **scikit-learn, pandas, matplotlib**.
 
+Logistic regression pipeline predicting Airbnb Superhost status. Tuned via GridSearchCV (5-fold CV) and used SelectKBest to identify the top predictive features (response rate, review volume, review scores), achieving 0.824 AUC on a held-out test set. Built with **scikit-learn, pandas, matplotlib**.
 
 ---
 
