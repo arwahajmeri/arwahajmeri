@@ -1,6 +1,8 @@
 # Hi, I'm Arwah 👋
 
-🎓 Data Science Student @ University of Illinois Chicago (Expected May 2028) | 🤖 AI/ML Fellow @ Break Through Tech — building end-to-end machine learning projects with real-world data | 📊 Google Data Analytics & Google IT Support Certified
+🎓 Data Science Student @ UIC (Expected May 2028) | 🤖 AI/ML Fellow @ Break Through Tech
+🎯 Seeking Data Science / Machine Learning internships
+📊 Google Data Analytics & Google IT Support Certified
 
 🎯 **Currently seeking Data Science / Machine Learning internships**
 
