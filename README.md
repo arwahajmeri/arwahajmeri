@@ -1,11 +1,14 @@
 # Hi, I'm Arwah 👋
 
 🎓 Data Science Student @ University of Illinois Chicago (Expected May 2028) 
+
 🤖 AI/ML Fellow @ Break Through Tech — selected from 4,300+ applicants 
+
 🎯 Seeking Data Science / Machine Learning internships 
+
 📊 Cornell Tech ML Foundations, Google Data Analytics & IT Support Certified
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 Languages: Python
 Libraries: pandas, scikit-learn, TensorFlow/Keras, ChromaDB, sentence-transformers, Matplotlib
