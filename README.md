@@ -10,7 +10,7 @@
 
 ## 🛠 Tech Stack
 
-### Languages: Python
+### Languages: ****Python
 ### Libraries: pandas, scikit-learn, TensorFlow/Keras, ChromaDB, sentence-transformers, Matplotlib
 ### Tools: Git/GitHub, Jupyter Notebook, Streamlit, Groq API
 ### Focus Areas: Data cleaning & feature engineering, model development & evaluation, retrieval-augmented generation (RAG), data visualization
