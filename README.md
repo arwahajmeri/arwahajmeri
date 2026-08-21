@@ -1,4 +1,4 @@
-Hi, I'm Arwah 👋
+# Hi, I'm Arwah 👋
 
 🎓 Data Science Student @ University of Illinois Chicago (Expected May 2028) 
 🤖 AI/ML Fellow @ Break Through Tech — selected from 4,300+ applicants 
