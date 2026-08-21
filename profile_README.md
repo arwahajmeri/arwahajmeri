@@ -3,8 +3,11 @@
 ---
 
 🎓 Data Science Student @ University of Illinois Chicago (Expected May 2028)
+
 🤖 AI/ML Fellow @ Break Through Tech — selected from 4,300+ applicants
+
 🎯 Seeking Data Science / Machine Learning internships
+
 📊 Cornell Tech ML Foundations, Google Data Analytics & IT Support Certified
 
 ---
@@ -46,7 +49,9 @@ I'm currently one of just over 100 fellows selected from a pool of 4,300+ applic
 ### 🎓 Certifications
 
 🏅 Machine Learning Foundations Certificate, Cornell Tech — Aug. 2026
+
 🏅 Google Data Analytics Professional Certificate — Sept. 2025
+
 🏅 Google IT Support Professional Certificate — Jul. 2024
 
 ---
